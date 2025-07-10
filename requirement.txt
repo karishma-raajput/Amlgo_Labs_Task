@@ -1,0 +1,9 @@
+Requirements
+
+openai
+faiss-cpu
+sentence-transformers
+nitk
+PyMuPDF
+numpy
+pickle-mixin
